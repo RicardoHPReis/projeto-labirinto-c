@@ -1,7 +1,7 @@
 # Projeto Labirinto em C
 
 Projeto opcional da disciplina de Fundamentos de Programação 1
-Opcional project from the subject of Programming Fundamentals 1
+/ Opcional project from the subject of Programming Fundamentals 1
 
 - Hi, my name is Ricardo Henrique and this project had been made by me in C! The project requested to build a program capable of find the shortest path in a maze, which the beggining is represented by a rat and the end, a cheese. However, I decided to add new features to the project, like random mazes, CSV archives and a maze maker. 
 
